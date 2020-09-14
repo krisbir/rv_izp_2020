@@ -4,6 +4,9 @@
 .new_cena{
 border: 1px solid red;
 }
+.old_cena{
+border: 1px solid red;
+}
 .atlaide{
     background: #13c5ec;
     width: 50px;
