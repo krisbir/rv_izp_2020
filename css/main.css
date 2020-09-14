@@ -17,3 +17,6 @@ border: 1px solid red;
     line-height: 50px;
     font-weight: 700;
 }
+.elements{
+    position: absolute;
+}
