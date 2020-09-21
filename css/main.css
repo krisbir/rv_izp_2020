@@ -2,20 +2,25 @@ body{
   font-size: 13px;
 }
 /*header*/
-.header{
-  position: relative;
-}
-.izpardosana{
+.header {
+    position: relative;
+    z-index: 2;
     width: 40%;
+}
+.izpardosana {
     background: #00aeef;
     color: white;
     font-size: 4rem;
+    z-index: 1;
 }
 .atlaides_bubble{
     background: #ffc20e;
     height: 200px;
     width: 200px;
     border-radius: 500px;
+    position: absolute;
+    z-index: -1;
+    top: 0;
 }
 /*elementi*/
 .bubble {
