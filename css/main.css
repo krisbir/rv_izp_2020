@@ -1,3 +1,6 @@
+body{
+  font-size: 13px;
+}
 .bubble{
     background: #13c5ec;
     width: 100px;
@@ -7,6 +10,7 @@
     bottom: 0;
     border-radius: 100px;
     padding: 5px;
+    text-align: center;
 }
 .elements{
     position: absolute;
@@ -20,10 +24,12 @@
 }
 .atlaide{
   font-size:14px;
+  font-size: 2rem;
 }
 .new_cena{
-border: 1px solid red;
+    font-size: 2rem;
 }
-.old_cena{
-border: 1px solid red;
+.old_cena {
+    text-decoration: line-through;
+    font-size: 1rem;
 }
