@@ -2,7 +2,18 @@ body{
   font-size: 13px;
 }
 /*header*/
+.header{
+  position: relative;
+}
+.izpardosana{
+    width: 40%;
+    background: #00aeef;
+    color: white;
+    font-size: 4rem;
+}
+.atlaides_bubble{
 
+}
 /*elementi*/
 .bubble {
     background: #13c5ec;
@@ -22,6 +33,7 @@ body{
     position: relative;
     float: left;
     margin: 10px;
+    background: white;
 }
 .bilde{
   width: 100%;
