@@ -12,7 +12,10 @@ body{
     font-size: 4rem;
 }
 .atlaides_bubble{
-
+    background: #ffc20e;
+    height: 200px;
+    width: 200px;
+    border-radius: 500px;
 }
 /*elementi*/
 .bubble {
