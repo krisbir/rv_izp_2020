@@ -17,10 +17,11 @@ body{
     box-shadow: 2px 2px 1px #00000024;
 }
 .elements {
-    width: 210px;
+    width: 200px;
     box-shadow: 2px 2px 1px #00000024;
-    position: absolute;
-    background: white;
+    position: relative;
+    float: left;
+    margin: 10px;
 }
 .bilde{
   width: 100%;
