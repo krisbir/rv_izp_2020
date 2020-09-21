@@ -24,10 +24,11 @@ body{
     height: 600px;
     padding: 30px;
 }
-.text{
+.text {
     line-height: 1;
     display: inline-grid;
     padding-top: 20px;
+    color: white;
 }
 .atlaide {
     font-size: 2.8rem;
