@@ -20,14 +20,14 @@ body{
     width: 210px;
     box-shadow: 2px 2px 1px #00000024;
     position: absolute;
+    background: white;
 }
 .bilde{
   width: 100%;
 }
-.centrs{
+.centrs {
     width: 100%;
-    background: whitesmoke;
-    width: 1200px;
+    background: #ad9e94;
     height: 600px;
     padding: 30px;
 }
