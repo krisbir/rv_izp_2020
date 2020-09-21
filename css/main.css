@@ -18,6 +18,9 @@
     height: 600px;
     padding: 30px;
 }
+.atlaide{
+  font-size:14px;
+}
 .new_cena{
 border: 1px solid red;
 }
