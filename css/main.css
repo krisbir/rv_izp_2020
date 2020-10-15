@@ -3,32 +3,33 @@ width: 100%;
 }
 .vaks{
 width: 30%;
-float
+float:left;
 }
 .content{
-
+font-weight: normal;
 }
 .info{
-
+font-weight: normal;
 }
 .virsraksts{
-
+font-weight: normal;
 }
 .apraksts_1{
-
+font-weight: normal;
 }
 .apraksts_2{
-
+font-weight: normal;
 }
-.buy{
 
+.buy{
+font-weight: normal;
 }
 .new_cena{
-
+font-weight: bold;
 }
 .old_cena{
-
+font-weight: normal;
 }
 .button{
-
+font-weight: normal;
 }
